@@ -1,2 +1,7 @@
 
 this is apple3.txt
+
+
+this the file i m merging
+
+this is merging  

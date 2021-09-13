@@ -2,3 +2,5 @@ hi this is the second file i m creating in the apple repository
 
 this is the file nanme i m creating with the apple1.txt
 
+
+these i m changing after commiting the files 
